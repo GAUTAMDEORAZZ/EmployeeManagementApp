@@ -2,7 +2,7 @@ package com.masai.Model;
 
 public enum Gender {
 	MAlE,
-	FEMAlE,
+	FEMALE,
 	TRANSGENDER;
 
 }
